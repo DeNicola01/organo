@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Prata&display=swap');
+@import url('./componentes/Banner/Banner.css');
+@import url('./componentes/CampoTexto/CampoTexto.css');
+
+:root {
+    --azul-principal: #6278F7;
+    --branco: #FFF;
+    --cinza: #AFAFAF;
+    --preto: #212121;
+    --fonte-principal: 'Prata', serif;
+    --fonte-secundaria: 'Montserrat', sans-serif;
+
+
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
