@@ -4,6 +4,8 @@
 @import url('./componentes/Formulario/Formulario.css');
 @import url('./componentes/ListaSuspensa/ListaSuspensa.css');
 @import url('./componentes/Botao/Botao.css');
+@import url('./componentes/Colaborador/Colaborador.css');
+@import url('./componentes/Rodape/Rodape.css');
 
 :root {
     --azul-principal: #6278F7;
