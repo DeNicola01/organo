@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Prata&display=swap');
 @import url('./componentes/Banner/Banner.css');
-@import url('./componentes/CampoTexto/CampoTexto.css');
+@import url('./componentes/Campo/Campo.css');
 @import url('./componentes/Formulario/Formulario.css');
 @import url('./componentes/ListaSuspensa/ListaSuspensa.css');
 @import url('./componentes/Botao/Botao.css');
